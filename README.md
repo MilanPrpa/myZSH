@@ -11,4 +11,7 @@
  alias='something'
  
  ```
- 
+## Notes
+```
+ to open config file in VScode --> ~/.zshrc
+```

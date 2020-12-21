@@ -15,3 +15,8 @@
 ```
  to open config file in VScode --> ~/.zshrc
 ```
+
+## OSX plugin
+```
+ofd ---> open finder window
+````
